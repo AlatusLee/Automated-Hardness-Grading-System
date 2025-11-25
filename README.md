@@ -1,8 +1,8 @@
 Automated Hardness Grading Evaluation System
 An automated hardness grading evaluation system based on unsupervised learning, utilizing pressure experiment data including torque, direction, and Paxini sensor data to automatically assess hardness and generate 9×11 hardness grids.
 
-https://gitee.com/alatus-lee/Automated-Hardness-Grading-Evaluation-System/raw/master/Figure_1.png
-https://gitee.com/alatus-lee/Automated-Hardness-Grading-Evaluation-System/raw/master/Figure_2.png
+[链接显示名](https://gitee.com/alatus-lee/Automated-Hardness-Grading-Evaluation-System/raw/master/Figure_1.png "链接标题")
+[链接显示名](https://gitee.com/alatus-lee/Automated-Hardness-Grading-Evaluation-System/raw/master/Figure_2.png "链接标题")
 
 System Overview
 This system analyzes pressure experiment data (including 6-axis force sensor data, position data, and 239 Paxini contact point data) using unsupervised learning algorithms to automatically classify hardness into 4 grades and generate visual 9×11 hardness score grids for each sample.
